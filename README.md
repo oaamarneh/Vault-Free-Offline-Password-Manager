@@ -11,6 +11,7 @@ Dependencies:
   2. Pycryptodome (pip install pycrpytodome)
   3. Termcolor (pip install termcolor)
   4. PyAutoGUI (pip install pyautogui)
+  5. Win32Api (pip install pypiwin32)
   
   
 * For Linux:
